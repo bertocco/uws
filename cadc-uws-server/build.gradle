@@ -15,6 +15,8 @@ repositories {
     }
 }
 
+jar.archiveName = "cadc-uws-server.jar"
+
 sourceCompatibility = 1.7
 
 group = 'org.opencadc'
